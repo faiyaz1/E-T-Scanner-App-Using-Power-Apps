@@ -1,1 +1,1 @@
-# E-T-Scanner-App-Using-Power-Apps
+# E&T-Scanner-App-Using-Power-Apps
